@@ -1,0 +1,8 @@
+{
+  "name": "gadgetpirates-tools",
+  "version": "1.0.0",
+  "description": "Store-operations tools for SYG / gadgetpirates. Includes the Shopify eBay-fulfillment skill that marks Shopify orders fulfilled from eBay tracking data.",
+  "author": {
+    "name": "gadgetpirates"
+  }
+}
