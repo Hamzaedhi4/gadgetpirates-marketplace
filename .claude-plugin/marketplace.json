@@ -1,0 +1,14 @@
+{
+  "name": "gadgetpirates-marketplace",
+  "owner": {
+    "name": "gadgetpirates"
+  },
+  "plugins": [
+    {
+      "name": "gadgetpirates-tools",
+      "source": "./plugins/gadgetpirates-tools",
+      "description": "Store-operations tools for SYG / gadgetpirates locations. Includes the Shopify eBay-fulfillment skill.",
+      "version": "1.0.0"
+    }
+  ]
+}
